@@ -1,0 +1,6 @@
+{
+  "name": "StudyBee Portal - RWA Bihar Board & Batches",
+  "description": "Full study portal clone for StudyBee with live video playback, chapter folders, PDF lecture notes, and dynamic sync with studybeepro.site.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
